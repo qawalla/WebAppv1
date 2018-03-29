@@ -1,0 +1,10 @@
+ Installed Node JS
+ Apache 2
+ 
+DEV PARTS 
+
+LOG IN 
+	Two pages
+		1 - Log in page
+		2 - Landing page for log in
+
