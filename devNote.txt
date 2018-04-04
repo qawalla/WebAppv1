@@ -10,3 +10,6 @@ LOG IN
 
 		
 
+Databse set up with users
+	adminUser
+	AltAdminUser
